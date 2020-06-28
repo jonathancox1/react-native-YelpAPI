@@ -1,6 +1,6 @@
 # Yums!
 This React-Native app allows the user to find local restaurants based of their search query.  Results are provided via the Yelp API and consumed using Axios.  The data is then sorted by price range.
-[View the app here](https://jonathan-cox.dev/movie.mov)
+[View the app here](https://jonathan-cox.dev/video.html)
 
 ## Technologies Used
 React-Native, Javascript, RESTful API, JSON, CSS
